@@ -16,7 +16,7 @@
 
 ### About me
 
-I'm **Ronnie Galindo**, a AI & Full Stack & Automation Engineer with **professional software development experience**, including **4+ years building and deploying AI-powered applications and machine-learning systems**.
+I'm a AI & Full Stack & Automation Engineer with **professional software development experience**, including **4+ years building and deploying AI-powered applications and machine-learning systems**.
 My work combines **AI engineering**, **backend architecture**, and **full-stack development**. I build systems that connect machine-learning models with scalable APIs, data pipelines, and user-facing applications—from conversational analytics and document intelligence to computer vision and neural speech synthesis.
 
 ---
